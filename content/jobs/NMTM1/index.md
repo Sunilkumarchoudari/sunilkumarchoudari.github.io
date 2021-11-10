@@ -6,4 +6,4 @@ range: 'Aug 2017 Present'
 url: 'http://www.newmoderntechmedia.blogspot.com/'
 ---
 
-- Technology Designed & Developer By Me to Educate People more about Technology.
+- Technology Designed & Developed By Me to educate People more about Technology.

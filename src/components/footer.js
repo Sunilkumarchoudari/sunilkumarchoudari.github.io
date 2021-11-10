@@ -100,7 +100,7 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
+      {/* <StyledMetadata tabindex="-1">
         <StyledGitHubLink
           href="https://github.com/bchiang7/v4"
           target="_blank"
@@ -123,7 +123,7 @@ const Footer = () => {
             </StyledGitHubInfo>
           )}
         </StyledGitHubLink>
-      </StyledMetadata>
+      </StyledMetadata> */}
     </StyledContainer>
   );
 };

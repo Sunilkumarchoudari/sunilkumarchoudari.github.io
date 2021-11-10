@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Sunil Kumar Choudari | Software Engineer',
+  siteTitle: 'Sunil Kumar Choudari',
   siteDescription:
-    'Sunil Kumar Choudari is an incoming Former Ethical Hacker || Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Sunil Kumar Choudari is an incoming Former Ethical Hacker & Bug Bounty Hunter || Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Sunil Kumar Choudari, Choudari Sunil Kumar, Choudari, sunilkumarchoudari, web developer, ethical hacker, software engineer, web developer, javascript, Hyderabad, amdocs, bit, mesra, deoghar',
+    'Sunil Kumar Choudari, Choudari Sunil Kumar,, choudhary sunilkumar, sunil kumar chodary, sunilkumar choudhary, Choudari, sunilkumarchoudari, web developer, ethical hacker, software engineer, web developer, javascript, Hyderabad, amdocs, bit, mesra, deoghar',
   siteUrl: 'https://sunilkumarchoudari.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-197671929-1',
@@ -20,11 +20,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sunilkumarchoudari/',
+      url: 'https://in.linkedin.com/in/sunilkumarchoudari',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/sunilkumarachoudari',
+      url: 'https://codepen.io/sunilkumarchoudari',
     },
     {
       name: 'Instagram',
