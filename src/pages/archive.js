@@ -162,7 +162,8 @@ const ArchivePage = ({ location, data }) => {
                               href={external}
                               target="_blank"
                               rel="nofollow noopener noreferrer"
-                              aria-label="External Link">
+                              aria-label="External Link"
+                            >
                               <FormattedIcon name="External" />
                             </a>
                           )}
@@ -171,7 +172,8 @@ const ArchivePage = ({ location, data }) => {
                               href={github}
                               target="_blank"
                               rel="nofollow noopener noreferrer"
-                              aria-label="GitHub Link">
+                              aria-label="GitHub Link"
+                            >
                               <FormattedIcon name="GitHub" />
                             </a>
                           )}
