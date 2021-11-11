@@ -11,5 +11,3 @@ tech:
 company: ''
 showInProjects: true
 ---
-
-
