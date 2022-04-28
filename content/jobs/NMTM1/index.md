@@ -1,9 +1,9 @@
 ---
 date: '2019-05-10'
-title: 'Technical Analyst & Writer'
-company: 'New Modern Tech Media'
-range: 'Aug 2017 Present'
-url: 'http://www.newmoderntechmedia.blogspot.com/'
+title: 'Project Intern'
+company: 'National Small Industries Corporation'
+range: 'Dec 2019 - May 2020'
+url: 'https://www.nsic.co.in//'
 ---
 
-- Technology Designed & Developed By Me to educate People more about Technology.
+- Diploma Internship Program | Developed an application based on Machine Lerning to enhance skills.

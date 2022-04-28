@@ -6,8 +6,6 @@ module.exports = {
     'Sunil Kumar Choudari, Choudari Sunil Kumar,, choudhary sunilkumar, sunil kumar chodary, sunilkumar choudhary, Choudari, sunilkumarchoudari, web developer, ethical hacker, software engineer, web developer, javascript, Hyderabad, amdocs, bit, mesra, deoghar',
   siteUrl: 'https://sunilkumarchoudari.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-197671929-1',
-  googleVerification: '',
   name: 'Sunil Kumar Choudari',
   location: 'Hyderabad, India',
   email: 'notifysunilkumar@gmail.com',
