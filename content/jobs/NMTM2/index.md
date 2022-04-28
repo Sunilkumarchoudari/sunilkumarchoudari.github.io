@@ -1,9 +1,9 @@
 ---
 date: '2019-05-10'
-title: 'Content Creator | Editor'
-company: 'New Modern Tech Media'
+title: 'Project Intern'
+company: 'AWISKAR TECH'
 range: 'Aug 2017 Present'
-url: 'http://www.newmoderntechmedia.blogspot.com/'
+url: 'https://awiskartech.com//'
 ---
 
-- Technology Designed & Developed By Me to educate People more about Technology.
+- Upgraded the skills with latest technologies.

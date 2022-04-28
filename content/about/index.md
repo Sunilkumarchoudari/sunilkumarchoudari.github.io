@@ -8,15 +8,21 @@ skills:
   - React Native
   - Flask
   - Python
+  - Artifial Intelligence
+  - Machine Learning
+  - Django
+  - Angular
+  - Deep Learning
+  - Neural Networks
 ---
 
 Hello! I'm Sunil Kumar Choudari, from Hyderabad, India.
 
-Former Ethical Hacker, Web Developer, Technology Analyst, Content Creator at [NPH](https://www.navachethanapublishinghouse.com/), India.
+Former Ethical Hacker, Software Developer, Technology Analyst, Content Creator at [NPH], India.
 
-My interest in web development started back in 2018 when I decided to try editing custom open source themes — turns out hacking together an Hover button taught me a lot about HTML, CSS & Javascript.
+My interest in Web development started back in 2018 when I decided to try editing custom open source themes — turns out hacking together an Hover button taught me a lot about HTML, CSS & Javascript.
 
-Fast-forward to today, and I've had the privilege of working at an press agency, a start-up, a huge corporation, and a publishing house. My main focus these days is building accessible, inclusive products and digital experiences for a variety of clients.
+Fast-forward to today, and I've had the privilege of working as Freelancer for several project for startups, and working Mentor for upcoming Engineering students. My main focus these days is building accessible, inclusive products and digital experiences for a variety of clients.
 
 I enjoy creating things that live on the internet as well worked as Technical writer & Ethical Hacker for various web platforms. and well-versed at blogging since 2017
 
