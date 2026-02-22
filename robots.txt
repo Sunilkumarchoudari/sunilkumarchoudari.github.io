@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sunilkumarchoudari.github.io/sitemap/sitemap-index.xml
-Host: https://sunilkumarchoudari.github.io
